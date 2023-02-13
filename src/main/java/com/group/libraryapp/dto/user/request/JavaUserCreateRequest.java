@@ -1,6 +1,6 @@
 package com.group.libraryapp.dto.user.request;
 
-public class UserCreateRequest {
+public class JavaUserCreateRequest {
 
   private String name;
   private Integer age;
